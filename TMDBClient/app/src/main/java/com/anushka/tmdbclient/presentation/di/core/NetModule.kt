@@ -25,4 +25,6 @@ class NetModule(private val baseUrl: String) {
         return retrofit.create(TMDBService::class.java)
     }
 
+
+
 }

@@ -36,6 +36,11 @@ android {
     dataBinding {
         enabled true
     }
+    kotlinOptions{
+        freeCompilerArgs += [
+                "-Xjvm-default=all",
+        ]
+    }
 }
 
 dependencies {

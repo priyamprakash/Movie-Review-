@@ -12,6 +12,7 @@ import javax.inject.Singleton
 
 @Module
 class DataBaseModule {
+    
     @Singleton
     @Provides
     fun provideMovieDataBase(context: Context):TMDBDatabase{
