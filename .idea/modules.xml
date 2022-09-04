@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Udemy---Movie-Review-.iml" filepath="$PROJECT_DIR$/.idea/Udemy---Movie-Review-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TMDBClient.iml" filepath="$PROJECT_DIR$/.idea/modules/TMDBClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TMDBClient.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TMDBClient.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TMDBClient.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TMDBClient.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TMDBClient.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TMDBClient.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TMDBClient.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TMDBClient.app.unitTest.iml" />
     </modules>
   </component>
 </project>
